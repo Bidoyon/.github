@@ -13,5 +13,5 @@ Il se trouve que j'ai toujours été celui qui a toujours été désigné pour n
 ### Organisation
 Le projet est découpé en plusieurs applications :
 - Le site internet depuis lequel tous les utilisateurs peuvent s'informer sur la quantité de jus qui leur est due;
-- L'application de bureau qui permet de gérer les données, conçue principalement pour l'administrateur;
+- (abandonné pour inutilité) L'application de bureau qui permet de gérer les données, conçue principalement pour l'administrateur;
 - Le serveur de requêtes, l'API, qui stocke les données et permet aux différentes applications d'y accéder.
